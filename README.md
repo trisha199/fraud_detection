@@ -1,4 +1,9 @@
 ![](https://resources.cdn.seon.io/uploads/2021/12/Credit_Card_Fraud_Detection.svg)
+
+![](https://img.shields.io/badge/python-3.8-blue)
+![sickit](https://img.shields.io/badge/scikit--learn-compatible-orange)
+
+
 ## Introduction to Credit Card Fraud Detection Project
 In the era of digital transactions, credit card fraud represents a significant challenge for financial institutions and consumers alike. The Credit Card Fraud Detection Project aims to tackle this pervasive issue by employing advanced data analysis and machine learning algorithms. By analyzing transactional data, the project seeks to identify and predict fraudulent activities, thereby mitigating risks and protecting financial assets.
 
