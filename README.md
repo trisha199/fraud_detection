@@ -1,6 +1,10 @@
 ![](https://resources.cdn.seon.io/uploads/2021/12/Credit_Card_Fraud_Detection.svg)
 
 ![](https://img.shields.io/badge/python-3.8-blue)
+![Pandas](https://img.shields.io/badge/Pandas-1.3.4-blue)
+![NumPy](https://img.shields.io/badge/NumPy-1.21.2-blue)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-blue)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.11.2-blue)
 ![sickit](https://img.shields.io/badge/scikit--learn-compatible-orange)
 
 
