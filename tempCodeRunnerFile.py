@@ -15,7 +15,7 @@ import seaborn as sns
 import warnings
 warnings.simplefilter('ignore', category=FutureWarning)
 warnings.filterwarnings('ignore')
-
+  
 def load_data(file_path1, file_path2):
     # Function to load data
     transactions = pd.read_csv(file_path1)
