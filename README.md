@@ -60,7 +60,7 @@ These visualizations are an essential component of the fraud detection system, a
 ## Customization
 - The script can be modified for different datasets or to integrate other machine learning models.
 - Adjust visualization and model parameters for tailored analysis and improved accuracy.
-
+     
 ## Conclusion
 The model demonstrates high overall accuracy, as indicated by the near-perfect classification of non-fraudulent transactions (class 0) with a precision and recall of approximately 1.00. This suggests the model is very effective at identifying legitimate transactions.
 
